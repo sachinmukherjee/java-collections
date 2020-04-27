@@ -53,7 +53,7 @@ public class Example1 {
 		animals.remove("Dog"); // removes first matched element
 		
 		
-		//Iterating
+		//Iterating Collections
 		//Iterator
 		//ListIterator
 		//For Loop
